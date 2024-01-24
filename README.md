@@ -8,6 +8,6 @@
 <p align="left"> 
 <br/>
 <h3 align="left"> 📑 My Stats 📑</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkucukk&show_icons=true&locale=en&layout=compact" alt="nkucukk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nejla-kucuk&show_icons=true&locale=en&layout=compact" alt="nejla-kucuk" /></p>
 <br/>
 
