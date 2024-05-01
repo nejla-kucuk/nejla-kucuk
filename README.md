@@ -1,6 +1,9 @@
 
 <h1 align="center"> Hi! 👋 </h1>
-<h3 align="center">I’m developer with more than 3 years experince working with C#, .NET, Java and Spring Framework. I'm an experienced in Web Development. </h3>
+<h3 align="center">I’m software developer with more than 3 years experince working with Java, Spring Framework, C# and .NET.
+I'm an experienced in Web Development. I'm currently improving myself in the frontend field. I prioritize
+collaboration and efficiency within the team. My aim is to contribute to the success of projects by providing
+expertise in full-stack technologies. </h3>
 <h3 align="left"> 💻 Languages and Tools 💻</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" /> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  alt="java" width="40" height="40"</a> 
