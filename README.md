@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi! 👋 </h1>
-<h3 align="justify">I’m software developer with more than three years experince working with Java, Spring Framework, C# and .NET. 
+<h3 align="justify">I’m software developer with more than two years experince working with Java, Spring Framework, C# and .NET. 
 I'm an experienced in Web Development. I'm currently improving myself in the frontend field. I prioritize
 collaboration and efficiency within the team. My aim is to contribute to the success of projects by providing
 expertise in full-stack technologies. </h3>
