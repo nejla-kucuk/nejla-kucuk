@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi! 👋 </h1>
-<h3 align="justify">I am a software developer with more than 2 years of experience working with C# and .NET. I am experienced in web 
-development. Currently, I am improving myself in the fields of Blazor and AI.</h3>
+<h3 align="justify"> I am experienced in web 
+development.</h3>
 <h3 align="left"> 💻 Languages and Tools 💻</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" /> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  alt="java" width="40" height="40"</a> 
